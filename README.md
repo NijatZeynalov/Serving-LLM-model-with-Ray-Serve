@@ -1,1 +1,1 @@
-# NijatZeynalov-Serving-LLM-model-with-Ray-Serve
+# Serving-LLM-model-with-Ray-Serve
